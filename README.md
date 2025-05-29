@@ -23,6 +23,3 @@ O aplicație creată pentru a ajuta oamenii să învețe limba engleză. Aplica�
 
 **Profesor îndrumător:** PREDEȘEL ELENA
 
-## Capturi de ecran:
-
-![Test cu timpuri verbale](screenshots/quiz_screen.png)
